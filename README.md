@@ -71,8 +71,8 @@ The final dashboard can be broken down into several categories and sub-categorie
    - Kochi Tuskers Kerala has the lowest number in terms of highest totals across all seasons.
 
 2. **Player Statistics**
-   - In the year 2016, Virat Kohli was the orange cap winner. 
-   - According to the dataset, Virat Kohli also had scored the highest runs ever by an orange cap winner across all seasons. The total runs he scored was 973.
+   - In the year 2013, MEK Hussey was the orange cap winner. 
+   - According to the dataset, Virat Kohli  had scored the highest runs ever by an orange cap winner across all seasons. The total runs he scored was 973.
    - In the year 2011, SL Malinga was the purple cap winner. 
    - SL Malinga also took the highest wickets ever taken by a purple cap winner across all seasons with a total of 30 wickets in the year 2011.
    - Gautam Gambhir was the player that had scored most Fours in all seasons combined followed by SK Raina and S Dhawan.
