@@ -1,5 +1,6 @@
 # IPL Visualisation
 
+#### Published on Tableau Public [here](https://public.tableau.com/app/profile/kevin.patel1308/viz/IPLVisualisation_16564332059730/MatchStatistics)
 
 <br>
 
