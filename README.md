@@ -7,6 +7,7 @@
 Performed analysis and visualisation using Tableau on an IPL dataset and found insights on matches, players, and teams. The dataset consists of details of the matches from all IPL seasons held between 2008 and 2017. Built three dashboards describing the match, player, and team statistics across all IPL seasons. Finally, made inferences based on the insights found from each specific dashboard in a powerpoint presentation.
 
 <br>
+
 ## Problem Statement
 The Indian Premier League, or IPL, is a T20 cricket league, which was founded in 2008 and is held every year. It sees participation from both national and international players, and eight teams representing eight Indian cities compete with each other in a double round-robin format in the league stages, which are followed by playoffs. Over the years, IPL has become one of the most-watched and most attended live sporting events all over the world.
 
